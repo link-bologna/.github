@@ -1,6 +1,7 @@
 # Link 2.0 Repository
 
-Link crede nella potenza espressiva dell’arte in quanto veicolo di diffusione di cultura, benessere e valori sociali ed educativi; ha sempre posto la musica al centro delle proprie attività e crede in un mondo senza confini, giusto e solidale; punta al benessere dei propri soci e del contesto sociale del territorio.
+Link crede nella potenza espressiva dell’arte in quanto veicolo di diffusione di cultura, benessere e valori sociali ed educativi; ha sempre posto la musica al centro delle proprie attività e crede in un mondo senza confini, giusto e solidale; punta al benessere dei propri soci e del contesto sociale del territorio. L’associazione non persegue fini di lucro, è apolitica, apartitica, aconfessionale e rigetta ogni forma di discriminazione.
+
 
 ## Descrizione
 
