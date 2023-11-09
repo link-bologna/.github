@@ -1,6 +1,7 @@
-# Link 2.0
+# Link 2.0 Repository
 
-Benvenuto nella repository ufficiale di Link 2.0, l'associazione di promozione sociale di Bologna dedicata alla diffusione e condivisione di conoscenze nel mondo della musica.
+Benvenuto nella repository ufficiale di Link 2.0
+Link crede nella potenza espressiva dell’arte in quanto veicolo di diffusione di cultura, benessere e valori sociali ed educativi; ha sempre posto la musica al centro delle proprie attività e crede in un mondo senza confini, giusto e solidale; punta al benessere dei propri soci e del contesto sociale del territorio.
 
 ## Descrizione
 
