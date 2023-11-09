@@ -13,7 +13,7 @@ Questa repository è il cuore pulsante della nostra missione: fornire risorse pr
 Troverai qui il materiale didattico completo per i nostri corsi, suddiviso per argomento e livello di difficoltà. Sia che tu sia un principiante che muove i primi passi o un esperto in cerca di nuove sfide, qui c'è qualcosa per tutti.
 
 ### 2. Workshops
-Esplora i nostri workshops focalizzati sulla musica elettronica e  sull'hip-hop e altri aspetti musicali. Le risorse qui presenti includono guide dettagliate, presentazioni e materiali interattivi per rendere la tua esperienza formativa coinvolgente ed istruttiva.
+Esplora i nostri workshops focalizzati sulla musica elettronica ,sull'hip-hop e sulla urderground culture. Le risorse qui presenti includono guide dettagliate, presentazioni e materiali interattivi per rendere la tua esperienza formativa coinvolgente ed istruttiva.
 
 ### 3. Progetti
 Scopri e contribuisci ai progetti collaborativi della nostra comunità. Condividiamo idee, codice e risorse per promuovere la creatività e la collaborazione tra i membri di Link 2.0.
