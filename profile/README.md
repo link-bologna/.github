@@ -1,6 +1,5 @@
 # Link 2.0 Repository
 
-Benvenuto nella repository ufficiale di Link 2.0
 Link crede nella potenza espressiva dell’arte in quanto veicolo di diffusione di cultura, benessere e valori sociali ed educativi; ha sempre posto la musica al centro delle proprie attività e crede in un mondo senza confini, giusto e solidale; punta al benessere dei propri soci e del contesto sociale del territorio.
 
 ## Descrizione
@@ -33,4 +32,4 @@ Questo progetto è distribuito con licenza [Creative Commons Attribution-NonComm
 
 Per ulteriori informazioni sull'associazione Link 2.0 e su come partecipare, visita il nostro sito web [link.bo.it](https://www.link.bo.it) o contattaci via email all'indirizzo [info@link.bo.it](mailto:info@link.bo.it).
 
-Unisciti a noi nella creazione di un ambiente di apprendimento collaborativo e nell'espansione della cultura musicale a Bologna e oltre!
+Unisciti a noi nella creazione di un ambiente di apprendimento collaborativo e nell'espansione della cultura musicale!
