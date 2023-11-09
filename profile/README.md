@@ -27,7 +27,7 @@ Siamo sempre aperti a nuovi membri e contributi! Se vuoi aggiungere risorse, pro
 
 ## Licenza
 
-Questo progetto è distribuito con licenza [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE). Leggi attentamente i termini prima di utilizzare o contribuire a questo repository.
+Questo progetto verrà distribuito con licenza [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
 
 ## Contatti
 
