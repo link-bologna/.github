@@ -18,7 +18,7 @@ La licenza MIT è una licenza permissiva che impone poche restrizioni sull'uso d
 Per ulteriori dettagli sulla Licenza MIT, consulta il file [LICENSE](LICENSE) incluso nella directory principale
 
 ## Contatti
-Questa repository e i corsi sono curati da **Link Academy** all’interno dei **Link Studio**.
+Questa repository e i corsi sono curati da **Link Academy** all’interno dei **Link Studios**.
 
 Per ulteriori informazioni sull'associazione Link 2.0 e su come partecipare, visita il nostro sito web [link.bo.it](https://www.link.bo.it) o contattaci via email all'indirizzo [info@link.bo.it](mailto:info@link.bo.it).
 
